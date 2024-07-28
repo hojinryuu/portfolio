@@ -21,7 +21,7 @@ This is a simple portfolio website created using HTML and CSS. It includes secti
 1. Clone the repository to your local machine:
 
    ```sh
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/hojinryuu/portfolio-website.git
 
 ## Usage
 
