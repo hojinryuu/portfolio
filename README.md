@@ -8,8 +8,6 @@ This is a simple portfolio website created using HTML and CSS. It includes secti
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -24,3 +22,21 @@ This is a simple portfolio website created using HTML and CSS. It includes secti
 
    ```sh
    git clone https://github.com/yourusername/portfolio-website.git
+
+## Usage
+
+Open the index.html file in your web browser to view the portfolio website.
+
+## Customization
+
+The Customization section helps you personalize the website to reflect your own information and style.
+
+HTML
+- Open the index.html file.
+- Update the content within the <header>, <section>, and <footer> tags to reflect your own information.
+- Modify the project details in the "Projects" section.
+
+CSS
+- Open the styles.css file.
+- Customize the styles to match your personal preferences.
+- Adjust colors, fonts, margins, and padding as needed.
